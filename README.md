@@ -113,11 +113,11 @@ The financial analysis aims to examine revenue from different ticket types and c
 > Revenue contributions are as follows:
 >* First Class: £149,399
 >* Standard: £592,522
-Revenue from Ticket Types:
+> > Revenue from Ticket Types:
 >* Advance: £309,274
 >* Anytime: £209,309
 >* Off-Peak: £223,338
-> Standard class tickets significantly outpace first class in revenue, indicating a higher volume of standard class passengers. Focusing marketing and promotional efforts on high-revenue ticket classes and optimizing pricing strategies can boost overall revenue. While offering premium services or amenities can justify higher prices in first class, increasing profitability.
+> > Standard class tickets significantly outpace first class in revenue, indicating a higher volume of standard class passengers. Focusing marketing and promotional efforts on high-revenue ticket classes and optimizing pricing strategies can boost overall revenue. While offering premium services or amenities can justify higher prices in first class, increasing profitability.
 
 2. Revenue Trends Over Time:
 
