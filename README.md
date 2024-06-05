@@ -55,7 +55,7 @@ The operational analysis focuses on identifying the most popular routes, determi
 > Manchester Piccadilly to Liverpool Lime Street, London Euston to Birmingham New Street, and London Kings Cross to York are the top routes by frequency.
 > Increasing capacity and frequency on these routes can enhance service efficiency and customer satisfaction. Strategic investment in infrastructure on these routes can yield high returns due to concentrated demand.
 > The following routes are the most utilized by passengers:
->* Manchester Piccadilly to Liverpool Lime Street: 4628 trips
+>  *Manchester Piccadilly to Liverpool Lime Street: 4628 trips
 >* London Euston to Birmingham New Street: 4209 trips
 >* London Kings Cross to York: 3922 trips
 >* London Paddington to Reading: 3873 trips
