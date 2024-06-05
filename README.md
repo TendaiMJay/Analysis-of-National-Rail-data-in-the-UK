@@ -22,9 +22,9 @@ This data was provided by Maven Analytics (https://maven-datasets.s3.amazonaws.c
 3. Analyze revenue from different ticket types & classes
 4. Diagnose on-time performance and contributing factors
 
-### Approach Used
+## Approach Used
 
-## Power BI Analysis
+### Power BI Analysis
 
 1. **Data Preparation:** 
 
@@ -113,10 +113,12 @@ The financial analysis aims to examine revenue from different ticket types and c
 > Revenue contributions are as follows:
 >* First Class: £149,399
 >* Standard: £592,522
-> > Revenue from Ticket Types:
+>  
+> Revenue from Ticket Types:
 >* Advance: £309,274
 >* Anytime: £209,309
 >* Off-Peak: £223,338
+>
 > > Standard class tickets significantly outpace first class in revenue, indicating a higher volume of standard class passengers. Focusing marketing and promotional efforts on high-revenue ticket classes and optimizing pricing strategies can boost overall revenue. While offering premium services or amenities can justify higher prices in first class, increasing profitability.
 
 2. Revenue Trends Over Time:
