@@ -113,7 +113,7 @@ The financial analysis aims to examine revenue from different ticket types and c
 > Revenue contributions are as follows:
 >* First Class: £149,399
 >* Standard: £592,522
-> Revenue from Ticket Types:
+Revenue from Ticket Types:
 >* Advance: £309,274
 >* Anytime: £209,309
 >* Off-Peak: £223,338
