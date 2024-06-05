@@ -55,7 +55,7 @@ The operational analysis focuses on identifying the most popular routes, determi
 > Manchester Piccadilly to Liverpool Lime Street, London Euston to Birmingham New Street, and London Kings Cross to York are the top routes by frequency.
 > Increasing capacity and frequency on these routes can enhance service efficiency and customer satisfaction. Strategic investment in infrastructure on these routes can yield high returns due to concentrated demand.
 > The following routes are the most utilized by passengers:
->  *Manchester Piccadilly to Liverpool Lime Street: 4628 trips
+>* Manchester Piccadilly to Liverpool Lime Street: 4628 trips
 >* London Euston to Birmingham New Street: 4209 trips
 >* London Kings Cross to York: 3922 trips
 >* London Paddington to Reading: 3873 trips
@@ -66,29 +66,29 @@ The operational analysis focuses on identifying the most popular routes, determi
 > Peak travel times are identified in the early morning (06:00-07:00) and evening (17:00-18:00), indicating rush hour periods.
 > Adjusting schedules to add more trains during peak hours can reduce congestion and improve service levels. Off-peak promotions could help spread demand more evenly, optimizing resource use.
 >High-frequency travel times are:
->*06:00-07:00: 3112 trips
->*17:00-18:00: 3113 trips
->*18:00-19:00: 2888 trips
->*08:00-09:00: 2301 trips
->*16:00-17:00: 2179 trips
+>* 06:00-07:00: 3112 trips
+>* 17:00-18:00: 3113 trips
+>* 18:00-19:00: 2888 trips
+>* 08:00-09:00: 2301 trips
+>* 16:00-17:00: 2179 trips
 
 3. On-time Performance and Delay Analysis:
 
 > The overall on-time performance is 86.82%.
 > Addressing the root causes of delays to uncover operational bottlenecks and efficiency issues, such as technical issues or weather-related disruptions, through targeted investments and operational improvements can enhance reliability and passenger satisfaction.
 > Major Delay Reasons:
->*Weather: 995 instances
->*Technical Issues: 707 instances
->*Signal Failures: 523 instances
->*Staffing Issues: 410 instances
->*Traffic: 314 instances
+>* Weather: 995 instances
+>* Technical Issues: 707 instances
+>* Signal Failures: 523 instances
+>* Staffing Issues: 410 instances
+>* Traffic: 314 instances
 
 > Routes with Highest Delays:
->*Liverpool Lime Street to London Euston: 780 delays
->*Manchester Piccadilly to Liverpool Lime Street: 354 delays
->*London Euston to Birmingham New Street: 242 delays
->*Manchester Piccadilly to London Euston: 240 delays
->*London Kings Cross to York: 131 delays
+>* Liverpool Lime Street to London Euston: 780 delays
+>* Manchester Piccadilly to Liverpool Lime Street: 354 delays
+>* London Euston to Birmingham New Street: 242 delays
+>* Manchester Piccadilly to London Euston: 240 delays
+>* London Kings Cross to York: 131 delays
 
 #### Recommendations
 1. **Service Optimization:**
